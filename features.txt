@@ -1,0 +1,38 @@
+cms
+
+frontened - home, registration, login, single_post
+
+backend - dashboard - list all post (add post, update post, delete post)
+
+Site homepage
+single_post
+login
+
+user regitraion should be approved by admin
+
+table: 
+users - user_id, username, password, first name, last name, role
+posts - post_id, title, post_content, user_id
+
+================================================================================
+
+pages required:
+frontened:
+index.php
+header.php
+footer.php
+single_post.php
+registration.php
+login.php
+
+backend: (admin/)
+dashboard.php
+add_post.php
+update_post.php
+delete_post.php
+
+
+
+
+
+
